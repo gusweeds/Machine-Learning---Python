@@ -9,7 +9,7 @@ Count Number of Faces:
 
 •	Processed live video frames to identify multiple faces under varying lighting and orientation conditions.
 
-•	Structured code for modularity and reusability, enabling easy extension for future enhancements (tracking or recognition features)
+•	Structured code for modularity and reusability, enabling easy extension for future enhancements (tracking or recognition features).
 
 
 
